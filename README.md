@@ -48,16 +48,21 @@ TASK 4 :
 
 Main Goal of the Directive:
 The main goal of NIS2 is to enhance the overall level of cybersecurity across the European Union by establishing stronger security requirements for network and information systems. It aims to improve resilience against cyber threats and ensure that essential entities take appropriate cybersecurity measures.
+
 Types of Products Concerned:
 NIS2 primarily concerns products and services related to critical infrastructure, such as digital services, energy, transportation, banking, health, and water supply. This includes software, hardware, and digital services that contribute to the security and functionality of these sectors.
 Types of Organizations Concerned:
 The directive applies to essential service providers and digital service providers. It also extends to medium and large-sized enterprises operating in these sectors, as well as certain public administrations.
+
 Cybersecurity Measures for Compliance:
 To comply with NIS2, organizations must implement risk management practices, incident reporting mechanisms, and security measures that include encryption, access controls, and regular security assessments. They are also required to establish a cybersecurity culture and provide training to staff on security best practices.
+
 Compliance Date:
 Organizations are expected to comply with the NIS2 directive by October 2024. This deadline allows time for businesses to adapt their security measures and processes to meet the new requirements.
+
 Possible Penalties:
 Non-compliance with NIS2 can result in significant penalties, including fines, which can amount to up to €10 million or 2% of the total annual worldwide turnover, whichever is higher. Additionally, organizations may face reputational damage and operational restrictions.
+
 Personal Thoughts on Benefits and Drawbacks:
 NIS2 has the potential to significantly enhance cybersecurity resilience across the EU. This proactive approach can foster greater public trust in digital services and critical infrastructure. However, there are challenges, including the burden of compliance for smaller organizations. Striking a balance between robust security and operational feasibility is crucial to ensuring that the directive effectively addresses cybersecurity concerns.
 
